@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/jaquelinecramosdemos/CertPrepAz400/_apis/build/status/jaquecr.ContosoAir?branchName=master)](https://dev.azure.com/jaquelinecramosdemos/CertPrepAz400/_build/latest?definitionId=38&branchName=master)
 
 # Microsoft.Github CI Demo
 
